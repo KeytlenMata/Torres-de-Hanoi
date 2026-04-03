@@ -18,5 +18,5 @@ Implementación completa del clásico problema de las **Torres de Hanoi**, dise�
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/KeytlenMata/torres-hanoi.git
+git clone https://github.com/KeytlenMata/Torres-de-Hanoi
 cd torres-hanoi
